@@ -1,0 +1,40 @@
+.transaction-container {
+  display: flex;
+  justify-content: space-between;
+}
+.balance-container {
+  width: 240px;
+  display: flex;
+  padding: 10px;
+  justify-content: space-around;
+  border-radius: 10px;
+}
+.bal-color {
+  border: 1px solid #84cc16;
+  background-color: #ecfccb;
+  color: #84cc16;
+}
+.income-color {
+  border: 1px solid #06b6d4;
+  background-color: #cffafe;
+  color: #06b6d4;
+}
+.exp-color {
+  border: 1px solid #7c3aed;
+  background-color: #ede9fe;
+  color: #7c3aed;
+}
+
+.icon-bg {
+  height: 60px;
+  width: 60px;
+  margin-top: 10px;
+}
+p {
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.para {
+  font-family: 'Roboto';
+  font-size: 12px;
+}
